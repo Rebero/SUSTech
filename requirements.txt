@@ -1,0 +1,12 @@
+numpy
+pandas
+tensorflow
+keras
+seaborn
+sklearn
+matplotlib
+imblearn
+scipy
+xlrd
+jupyterlab-language-pack-zh-CN
+ipywidgets
