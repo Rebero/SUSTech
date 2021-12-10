@@ -1,5 +1,6 @@
 pandas
 keras
+tensorflow
 seaborn
 sklearn
 matplotlib
