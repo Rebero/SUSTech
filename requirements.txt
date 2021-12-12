@@ -8,3 +8,4 @@ xlrd
 jupyterlab-language-pack-zh-CN
 ipywidgets
 jupyter-contrib-nbextensions
+jlab-enhanced-cell-toolbar
