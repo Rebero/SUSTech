@@ -8,4 +8,4 @@ xlrd
 ipywidgets
 jupyter-contrib-nbextensions
 hide_code
-hide_code[lab]
+serverextension
