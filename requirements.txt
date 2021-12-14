@@ -7,4 +7,3 @@ pandas
 xlrd
 ipywidgets
 jupyter-contrib-nbextensions
-hide_code
