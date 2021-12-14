@@ -8,4 +8,4 @@ xlrd
 ipywidgets
 jupyter-contrib-nbextensions
 hide_code
-serverextension
+helpful_package
