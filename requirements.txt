@@ -1,9 +1,9 @@
 pandas
-#keras
-#tensorflow
-#seaborn
-#sklearn
-#matplotlib
+keras
+tensorflow
+seaborn
+sklearn
+matplotlib
 xlrd
 ipywidgets
 jupyter-contrib-nbextensions
