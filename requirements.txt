@@ -7,3 +7,4 @@ pandas
 xlrd
 ipywidgets
 jupyter-contrib-nbextensions
+nbconvert
