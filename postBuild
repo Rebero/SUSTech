@@ -1,5 +1,5 @@
 #!/bin/bash
+jupyter nbconvert chin_Data_for_Managers.ipynb --TagRemovePreprocessor.remove_cell_tags='{"remove_cell"}'
 jupyter contrib nbextension install --user
 jupyter nbextension enable init_cell/main
-jupyter nbconvert chin_Data_for_Managers.ipynb --TagRemovePreprocessor.remove_input_tags='{"remove_cell"}'
 jupyter trust *.ipynb
