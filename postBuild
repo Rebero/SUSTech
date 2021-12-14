@@ -1,7 +1,7 @@
 #!/bin/bash
 jupyter contrib nbextension install --user
 jupyter nbextension enable init_cell/main
-jupyter nbextension install --py hide_code
-jupyter nbextension enable --py hide_code
+jupyter nbextension install hide_code --py --sys-prefix
+jupyter nbextension enable hide_code --py --sys-prefix
+jupyter serverextension enable hide_code --py --sys-prefix
 jupyter trust *.ipynb
-jupyter labextension install jupyterlab_hidecode
