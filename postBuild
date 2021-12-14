@@ -1,4 +1,5 @@
 #!/bin/bash
 jupyter contrib nbextension install --user
 jupyter nbextension enable init_cell/main
+jupyter nbextension enable hide_input/main
 jupyter trust *.ipynb
