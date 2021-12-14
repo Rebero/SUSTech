@@ -4,4 +4,5 @@ jupyter nbextension enable init_cell/main
 jupyter nbextension install hide_code --py --sys-prefix
 jupyter nbextension enable hide_code --py --sys-prefix
 jupyter serverextension enable hide_code --py --sys-prefix
+jupyter nbextension enable --py widgetsnbextension --sys-prefix
 jupyter trust *.ipynb
