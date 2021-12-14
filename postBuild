@@ -1,5 +1,5 @@
 #!/bin/bash
 jupyter contrib nbextension install --user
 jupyter nbextension enable init_cell/main
-jupyter nbextension enable hide_input/main
+jupyter nbconvert nbconvert-example.ipynb --TagRemovePreprocessor.remove_input_tags='{"remove_cell"}'
 jupyter trust *.ipynb
